@@ -10,13 +10,15 @@
   },
   "dependencies": {
     "-": "^0.0.1",
+    "@ai-sdk/react": "^3.0.3",
     "@react-email/components": "^1.0.1",
+    "ai": "^6.0.3",
     "bcryptjs": "^3.0.3",
     "mongoose": "^8.20.0",
     "next": "16.0.3",
     "next-auth": "^4.24.13",
-    "react": "19.2.0",
-    "react-dom": "19.2.0",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
     "react-email": "^5.0.5",
     "resend": "^6.5.2",
     "zod": "^4.1.12"
